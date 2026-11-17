@@ -1,0 +1,6 @@
+{
+  "name": "XO NELLA — Agenda & Reservas",
+  "description": "Agenda de citas independiente y reservas online para el estudio de uñas XO NELLA con estética baddie y semiurbana.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

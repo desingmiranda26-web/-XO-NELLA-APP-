@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none">
+  <rect width="512" height="512" rx="112" fill="#121212" />
+  <rect x="28" y="28" width="456" height="456" rx="92" fill="#2D0A4E" stroke="#6A0DAD" stroke-width="10" />
+  <path d="M256 106L348 256L256 406L164 256L256 106Z" fill="#6A0DAD" />
+  <text x="256" y="274" text-anchor="middle" fill="#F5F2EB" font-family="Poppins, sans-serif" font-weight="800" font-size="112" letter-spacing="4">XO</text>
+</svg>
